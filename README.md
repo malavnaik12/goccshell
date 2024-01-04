@@ -1,2 +1,2 @@
-# goccshell
-My code files where I John Crickett's Course in created a Shell using Go.
+# Shell in Go
+My code files as I go through John Crickett's [Course](https://shop.codingchallenges.fyi/view/courses/build-your-own-shell-go-edition) in creating a Shell using Go.
